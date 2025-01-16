@@ -1,1 +1,34 @@
-site_name: My Docs
+site_name: FATEC PraGente
+site_url: 'https://curso.fatecpragente.com.br'
+repo_url: https://github.com/olv-leo/fpg-curso
+repo_name: olv-leo/fpg-curso
+edit_uri: tree/main/aulas
+
+theme:
+  name: material
+  language: pt
+  palette:
+    - scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+    - scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Modo noturno
+
+nav:
+  - Home: index.md
+  - Conteúdo:
+      - Provas:
+          - 2025 - 1º Semestre:
+              - Questão 01: provas/2025-1-semestre/questao-01.md
+      - Matérias:
+          - Português:
+              - Pronomes:
+                  - Pronomes relativos: materias/portugues/pronomes/pronomes-relativos.md
+              - Conjunções:
+                  - Conjunções integrantes: materias/portugues/conjuncoes/conjuncoes-integrantes.md
+     
