@@ -1,0 +1,67 @@
+site_name: FATEC PraGente
+repo_url: https://github.com/olv-leo/fpg-curso
+repo_name: olv-leo/fpg-curso
+
+nav:
+  - Home: index.md
+  - Conteúdo:
+      - Provas:
+          - 2025 - 1º Semestre:
+              - Questão 01: provas/2025-1-semestre/questao-01.md
+      - Matérias:
+          - Português:
+              - Pronomes:
+                  - Pronomes relativos: materias/portugues/pronomes/pronomes-relativos.md
+              - Conjunções:
+                  - Conjunções integrantes: materias/portugues/conjuncoes/conjuncoes-integrantes.md
+
+theme:
+  name: material
+  language: pt
+  palette:
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/weather-night
+        name: Modo noturno
+
+plugins:
+  - mkdocs-video  
+  - search:
+      lang: pt
+  - mkdocs_quiz
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.keys
+  - footnotes
+  - admonition  # Para ??? admonitions
+  - markdown.extensions.attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html  # Permite usar Markdown dentro de HTML
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10.9.1/dist/mermaid.min.js
+  - assets/javascripts/extra.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+
+
