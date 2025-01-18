@@ -4,16 +4,20 @@ repo_name: olv-leo/fpg-curso
 
 nav:
   - Home: index.md
-  - Conteúdo:
-      - Provas:
-          - 2025 - 1º Semestre:
-              - Questão 01: provas/2025-1-semestre/questao-01.md
-      - Matérias:
-          - Português:
-              - Pronomes:
-                  - Pronomes relativos: materias/portugues/pronomes/pronomes-relativos.md
-              - Conjunções:
-                  - Conjunções integrantes: materias/portugues/conjuncoes/conjuncoes-integrantes.md
+  - Pilares estudo: 
+    - Explicação: pilares-estudo/pilares-estudo.md
+    - Planejamento: pilares-estudo/pilares-estudo.md
+    - Técnica: pilares-estudo/pilares-estudo.md
+    - Cabeça: pilares-estudo/pilares-estudo.md
+  - Provas:
+      - 2025 - 1º Semestre:
+          - Questão 01: provas/2025-1-semestre/questao-01.md
+  - Matérias:
+      - Português:
+          - Pronomes:
+              - Pronomes relativos: materias/portugues/pronomes/pronomes-relativos.md
+          - Conjunções:
+              - Conjunções integrantes: materias/portugues/conjuncoes/conjuncoes-integrantes.md
 
 theme:
   name: material
