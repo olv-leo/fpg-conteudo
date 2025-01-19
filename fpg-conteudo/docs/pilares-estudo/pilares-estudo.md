@@ -48,4 +48,3 @@ A sua preparação para fatec passa por 3 pilares:
 - Cabeça
 
 Aqui a ideia é explicar o que está por trás de cada um dos três e apresentar para vocês o principio basico 
-
