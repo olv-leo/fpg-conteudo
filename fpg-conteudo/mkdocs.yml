@@ -57,7 +57,7 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
-    logo: logo
+    repo: fontawesome/brands/github
   language: pt
 
 # Additional configuration
@@ -74,7 +74,24 @@ markdown_extensions:
       permalink: true
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.tabbed
+  - pymdownx.snippets
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.tilde
+  - pymdownx.mark
+  - pymdownx.caret
   - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 

@@ -14,8 +14,9 @@
     [Toda Matéria :fontawesome-solid-book:](https://www.todamateria.com.br/pronomes-relativos/#:~:text=Pronomes%20relativos%20s%C3%A3o%20os%20pronomes,%2C%20quanto%2C%20quantos%2C%20quantas){ .md-button : target="_blank"}
 
     ---
-    !!! warning "Questões FATEC"
-        [Questão 01 (2025/1)  :fontawesome-solid-link:](/provas/2025-1-semestre/questao-01){ .md-button : target="_blank"}
+    
+    ### **Questões FATEC**   
+    [Questão 01 (2025/1)  :fontawesome-solid-link:](/provas/2025-1-semestre/questao-01){ .md-button : target="_blank"}
 
 ---
 ### **Questões**
