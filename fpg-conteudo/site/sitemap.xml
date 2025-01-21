@@ -1,43 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://conteudo.fatecpragente.com.br/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <loc>https://conteudo.fatecpragente.com.br/blog/</loc>
+         <lastmod>2025-01-21</lastmod>
     </url>
     <url>
-         <loc>https://conteudo.fatecpragente.com.br/blog/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <loc>https://conteudo.fatecpragente.com.br/home/</loc>
+         <lastmod>2025-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://conteudo.fatecpragente.com.br/home/apresentacao/</loc>
+         <lastmod>2025-01-21</lastmod>
+    </url>
+    <url>
+         <loc>https://conteudo.fatecpragente.com.br/home/metodo/</loc>
+         <lastmod>2025-01-21</lastmod>
     </url>
     <url>
          <loc>https://conteudo.fatecpragente.com.br/materias/matematica/progressao-aritimetica/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-21</lastmod>
     </url>
     <url>
          <loc>https://conteudo.fatecpragente.com.br/materias/portugues/conjuncoes/conjuncoes-integrantes/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-21</lastmod>
     </url>
     <url>
          <loc>https://conteudo.fatecpragente.com.br/materias/portugues/pronomes/pronomes-relativos/</loc>
-         <lastmod>2025-01-19</lastmod>
-    </url>
-    <url>
-         <loc>https://conteudo.fatecpragente.com.br/pilares-estudo/cabeca/</loc>
-         <lastmod>2025-01-19</lastmod>
-    </url>
-    <url>
-         <loc>https://conteudo.fatecpragente.com.br/pilares-estudo/pilares-estudo/</loc>
-         <lastmod>2025-01-19</lastmod>
-    </url>
-    <url>
-         <loc>https://conteudo.fatecpragente.com.br/pilares-estudo/planejamento/</loc>
-         <lastmod>2025-01-19</lastmod>
-    </url>
-    <url>
-         <loc>https://conteudo.fatecpragente.com.br/pilares-estudo/tecnica/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-21</lastmod>
     </url>
     <url>
          <loc>https://conteudo.fatecpragente.com.br/provas/2025-1-semestre/questao-01/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-21</lastmod>
     </url>
 </urlset>
