@@ -129,7 +129,7 @@ O pilar da ténica é responsável por responder perguntas como:
 Essas perguntas ilustram o papel central que esse pilar desempenha.
 
 ---
-**A PRINCÍPAL TÉCNICA PARA APRENDER** 
+**A PRINCÍPAL TÉCNICA PARA APRENDER**  
 O tema Aprender a Aprender por sí só daria um curso! Eu mesmo, já fiz um curso sobre aprendizado, mas nesse post quero falar para vocês das 3 etapas do aprendizado! 
 Cada uma dessas etapas tem suas proprias técnicas, mas vamos começar entendo o que é cada uma das etapas:
 
@@ -157,7 +157,7 @@ da `Repetição espaçada`essa é de longe a técnica mais poderosa para seu est
 Passando por essas 3 etapas você vai finalmente conseguir não apenas estudar várias conteúdos, mas se lembrar e conseguir aplicar eles na hora da prova! 
 
 ---
-**COMO COMEÇAR** 
+**COMO COMEÇAR**  
 Pegue o primeiro conteúdo que você vai estudar segundo o planejamento é:
 1. Assista uma aula no YouTube
 2. Resolva entre 10 e 20 questões sobre o tema
