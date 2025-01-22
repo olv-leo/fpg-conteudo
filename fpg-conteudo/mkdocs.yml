@@ -6,6 +6,7 @@ site_url: https://conteudo.fatecpragente.com.br
 
 nav:
   - Home: 
+    - Início: home/index.md
     - Apresentação: home/apresentacao.md
     - Conhecendo o método: home/metodo.md
   - Provas:
